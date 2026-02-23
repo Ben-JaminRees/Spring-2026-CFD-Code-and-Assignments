@@ -1,0 +1,36 @@
+# --- Python Byte-code ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- IDE and OS Metadata ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# --- Environments ---
+.env
+.venv
+env/
+venv/
+ENV/
+
+# --- Distribution / Packaging ---
+dist/
+build/
+*.egg-info/
+
+# --- Computational Artifacts ---
+*.png
+*.csv
+*.log
+
+# --- LaTeX Auxiliary Files ---
+*.aux
+*.log
+*.toc
+*.out
+*.synctex.gz
+*.fdb_latexmk
+*.fls
